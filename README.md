@@ -5,12 +5,12 @@ We will build a small Ruby application that will import a list names
 from a CSV file. After a successful import we manipulate the data answering
 the following questions:
 
-How many names are male?
-How many names are female?
-How many people are named Jane?
-What is the total count of names?
-What is the most common Last Name?
-What is the most common First Name?
+- How many names are male?
+- How many names are female?
+- How many people are named Jane?
+- What is the total count of names?
+- What is the most common Last Name?
+- What is the most common First Name?
 
 Usage
 =====
